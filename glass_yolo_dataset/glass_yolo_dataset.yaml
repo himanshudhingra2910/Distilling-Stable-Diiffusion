@@ -1,0 +1,5 @@
+train: /Users/himanshudhingra/Desktop/Distillation in Gen AI/glass_yolo_dataset/images/train
+val: /Users/himanshudhingra/Desktop/Distillation in Gen AI/glass_yolo_dataset/images/val
+
+nc: 1
+names: ['glass_defect']
